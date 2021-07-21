@@ -11,6 +11,6 @@ QR CODE Generation :
  - By using this project we can predict the prices of future versions of an iphone.
  - This project got implemented by using various moodules(pandas, matplotlib, sklearn) of python programming language.
  
- MINI-PROJECT 3:
+ MINI-PROJECT 3 :
  DAY FINDER:
  - It is a fun and basic python project by which we can find the "day" for the respective "dd-mm-yyyy" given.
